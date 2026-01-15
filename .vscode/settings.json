@@ -1,0 +1,11 @@
+// {
+//     "editor.formatOnSave": true,
+//     "editor.insertSpaces": true,
+//     "editor.tabSize": 4,
+//     "files.eol": "\n",
+//     "php.validate.executablePath": "C:/laragon/bin/php/php-7.4.33-nts-Win32-vc15-x64/php.exe",
+//     "intelephense.environment.phpVersion": "7.4",
+//     "[php]": {
+//         "editor.defaultFormatter": "junstyle.php-cs-fixer"
+//     }
+// }
