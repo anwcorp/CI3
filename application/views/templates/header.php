@@ -4,7 +4,15 @@
 <style>
   /* Ngilangin kotak hitam misterius di sidebar */
   .user-panel { display: none !important; }
-  .main-sidebar { padding-top: 50px !important; }
+  .main-sidebar .sidebar { padding-top: 10px !important; }
+  
+  /* Fix dropdown profile image */
+  .img-profile {
+    display: none !important;
+  }
+  .dropdown-menu {
+    max-width: 200px !important;
+  }
 </style>
 
 <head>
